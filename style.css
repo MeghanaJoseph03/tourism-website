@@ -1,0 +1,15 @@
+.home-page{
+    background-color:red;
+    font-family:"Roboto";
+    text-align:center;
+}
+.home-page-container{
+    background-color:red;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+    border:1px solid green;
+}
+.home-heading{
+    font-size:20px;
+
+}
